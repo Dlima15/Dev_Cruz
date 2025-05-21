@@ -41,7 +41,8 @@ Estou em constante evolução para me tornar um desenvolvedor Full Stack complet
 
 ---
 
-## 🛠️ Projetos em Destaque
+## 🛠️ No que estou Trabalhando
+
 
 ### 🔐 Sistema VIP Náutica – (Privado)
 > Sistema de controle e consulta de embarcações utilizado diariamente pelos colaboradores da empresa VIP Náutica.  
