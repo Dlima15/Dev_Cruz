@@ -73,7 +73,7 @@ Estou em constante evolução para me tornar um desenvolvedor Full Stack complet
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dlima15" target="_blank">
+  <a href="[https://www.linkedin.com/in/dlima15](https://www.linkedin.com/in/danilo-lima-cruz-828244234/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dlima15-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
