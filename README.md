@@ -1,26 +1,26 @@
 <h1 align="center">👋 Olá, eu sou o Danilo Lima Cruz</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação | Apaixonado por Tecnologia e Inovação</h3>
+<h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
 ---
 
 🔭 Atualmente estou focado no desenvolvimento de soluções Full Stack com:
 
-- 🚀 **Javascript**, **HTML**, **CSS**
+- 🚀 **JavaScript**, **HTML**, **CSS**
 - 🐍 **Python**
 - 🛢️ **SQL**
 - 🧠 **Metodologias Ágeis** (Scrum, Kanban)
-- 🛠️ **Git & GitHub** para controle de versão e colaboração
+- 🛠️ **Git & GitHub** para versionamento e colaboração
 - 🌐 Desenvolvimento de sistemas web robustos e escaláveis
 
 ---
 
 ## 💡 Sobre Mim
 
-Sou movido por desafios e apaixonado por resolver problemas com tecnologia. Atualmente, estudo **Engenharia de Software** e tenho trabalhado em projetos próprios e acadêmicos com foco em aplicações web, automações e sistemas de controle.  
+Sou movido por desafios e apaixonado por resolver problemas com tecnologia.  
+Atualmente estudo **Análise e desenvolvimento de sistemas** e tenho trabalhado de forma autônoma em projetos próprios e empresariais, e .  
 
 Tenho uma abordagem prática e colaborativa, prezando por código limpo, boas práticas e aprendizado contínuo.  
-
-Busco constantemente evoluir minhas habilidades técnicas e soft skills para atuar como desenvolvedor Full Stack completo.
+Estou em constante evolução para me tornar um desenvolvedor Full Stack completo, preparado para o mercado.
 
 ---
 
@@ -41,20 +41,59 @@ Busco constantemente evoluir minhas habilidades técnicas e soft skills para atu
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Projetos em Destaque
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilolimacruz&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danilolimacruz&theme=github-dark&hide_border=true" />
-</p>
+### 🔐 Sistema VIP Náutica – (Privado)
+> Sistema de controle e consulta de embarcações utilizado diariamente pelos colaboradores da empresa VIP Náutica.  
+> Desenvolvido 100% por mim, com login, controle de permissões, filtros dinâmicos, e recursos para facilitar a operação da equipe.  
+> **Por conter dados internos, não está disponível no GitHub.**
 
 ---
 
-## 🛠️ Projetos em Destaque
+### 🚧 FinFlow – *em desenvolvimento*
+> Plataforma de gestão financeira com inteligência artificial voltada para autônomos e pequenos negócios, com condições especiais para militares da reserva.  
+> Automatiza fluxo de caixa, faz previsões, gera alertas personalizados e entrega insights para tomada de decisão.  
+🔗 *Projeto ainda em desenvolvimento*
 
-- 🔗 [**FinFlow**](https://github.com/danilolimacruz/finflow) – Plataforma de gestão financeira com IA para autônomos e PMEs
-- 🔗 [**Swift+**](https://github.com/danilolimacruz/swiftplus) – App de produtividade com gamificação para times de vendas
-- 🔗 [**Sistema de Embarcações**](https://github.com/danilolimacruz/embarcacoes) – Gerenciador de barcos com filtros e controle de permissões
+---
+
+### 🚧 Swift+ – *em desenvolvimento*
+> Aplicativo de produtividade para empresas que trabalham com metas e vendas.  
+> Possui gamificação, ranking de colaboradores, incentivos e recompensas.  
+> Desenvolvido como parte de um projeto da **FIAP**, onde empresas reais como **JBS/Swift** buscaram soluções inovadoras criadas pelos alunos.  
+🔗 *Projeto ainda em desenvolvimento*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dlima15&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dlima15&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dlima15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dlima15-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dlima15&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlima15&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dlima15&label=Profile%20views&color=0e76a8&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dlima15&theme=darkhub&no-bg=true&no-frame=true&column=4" />
+</p>
+
 
 ---
 
@@ -71,11 +110,16 @@ Busco constantemente evoluir minhas habilidades técnicas e soft skills para atu
 
 ## 🤝 Vamos nos conectar!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/danilolimacruz/)
-- 💻 [GitHub](https://github.com/danilolimacruz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danilo-lima-cruz-828244234/)
+- 💻 [GitHub](https://github.com/Dlima15)
 - 📬 Email: **danilolimacruz@gmail.com**
 
 ---
 
-> “É no fogo bem mais forte que se forja o aço bom” – General Osório ( Patrono da Cavalaria do exército Brasileiro)
+> “É no fogo bem mais forte que se forja o aço bom.” – General Osório (Patrono da Cavalaria do exército Brasileiro)
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBtZmp6MXdzbGV6eXRuOGNnN3l4bmw1bjFraHdhMnZjZmQ1MTVoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lYiQWU9xMJrBsb2RHX/giphy.gif" width="100" alt="Mario pixel art tchau">
+</p>
