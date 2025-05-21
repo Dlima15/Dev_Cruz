@@ -24,7 +24,7 @@ Estou em constante evolução para me tornar um desenvolvedor Full Stack complet
 
 ---
 
-## 🧠 Tecnologias que domino
+## 🧠 Tecnologias que estudo e aplico com frequência
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   
