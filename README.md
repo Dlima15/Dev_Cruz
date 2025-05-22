@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Danilo Lima Cruz</h1>
+<h1 align="center">👋 Olá, eu sou o Danilo Lima</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
 ---
