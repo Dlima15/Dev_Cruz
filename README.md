@@ -117,10 +117,10 @@ Estou em constante evolução para me tornar um desenvolvedor Full Stack complet
 
 ---
 
-> “É no fogo bem mais forte que se forja o aço bom.” – General Osório (Patrono da Cavalaria do exército Brasileiro)
+> “Ser-me-á mais fácil morrer do que assinar uma parte dando ao meu governo a notícia de uma derrota” – General Osório (Patrono da Cavalaria do exército Brasileiro)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBtZmp6MXdzbGV6eXRuOGNnN3l4bmw1bjFraHdhMnZjZmQ1MTVoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lYiQWU9xMJrBsb2RHX/giphy.gif" width="100" alt="Mario pixel art tchau">
+  <img src="https://osdivergentes.com.br/wp-content/uploads/2021/05/general-osorio-3.jpg)">
 </p>
