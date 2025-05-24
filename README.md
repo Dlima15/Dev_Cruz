@@ -121,6 +121,3 @@ Estou em constante evolução para me tornar um desenvolvedor Full Stack complet
 
 ---
 
-<p align="center">
-  <img src="https://osdivergentes.com.br/wp-content/uploads/2021/05/general-osorio-3.jpg)">
-</p>
